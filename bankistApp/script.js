@@ -63,14 +63,17 @@ const inputClosePin = document.querySelector('.form__input--pin');
 
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////
-// LECTURES
 
-const currencies = new Map([
-  ['USD', 'United States dollar'],
-  ['EUR', 'Euro'],
-  ['GBP', 'Pound sterling'],
-]);
+const mostrarMovimientos = function (movimientos) {
+  containerMovements.innerHTML = ``;
+  movimientos.forEach(function (mov, i) {
+    const tipo = mov > 0 ? `deposit` : `withdrawal`;
+    const html = ` <div class="movements__row">
+    <div class="movements__type movements__type--${tipo}">${i + 1} ${tipo}</div>
+    <div class="movements__value">${mov}</div>
+  </div>`;
+    containerMovements.insertAdjacentHTML(`afterbegin`, html);
+  });
+};
 
-const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
-
-/////////////////////////////////////////////////
+mostrarMovimientos(account1.movements);
