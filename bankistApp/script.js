@@ -146,6 +146,8 @@ btnLogin.addEventListener(`click`, function (e) {
   }
 });
 
+//TRANSFERIR
+
 btnTransfer.addEventListener(`click`, function (e) {
   e.preventDefault();
   const amount = Number(inputTransferAmount.value);
@@ -166,6 +168,8 @@ btnTransfer.addEventListener(`click`, function (e) {
   }
 });
 
+//ELIMINAR CUENTA
+
 btnClose.addEventListener(`click`, function (e) {
   e.preventDefault();
 
@@ -176,11 +180,24 @@ btnClose.addEventListener(`click`, function (e) {
     const index = accounts.findIndex(
       acc => acc.username === currentAccount.username
     );
-    console.log(index);
+    // console.log(index);
 
     accounts.splice(index, 1);
     containerApp.style.opacity = ` 0`;
   }
 
   inputClosePin.value = inputCloseUsername.value = '';
+});
+
+//PRESTAMO
+
+btnLoan.addEventListener(`click`, function (e) {
+  e.preventDefault();
+
+  const amount = Number(inputLoanAmount.value);
+
+  if (amount > 0 && currentAccount.movements.some(mov => mov >= 0.1 * amount)) {
+    currentAccount.movements.push(amount);
+    updateUI(currentAccount);
+  }
 });
