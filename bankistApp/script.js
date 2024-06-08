@@ -127,6 +127,8 @@ const updateUI = function (currentAccount) {
   mostrarMovimientos(currentAccount);
   calcPrintBalance(currentAccount);
   calcDisplaySummary(currentAccount);
+  clearInterval(timer);
+  timer = startLogOutTimer();
 };
 createUsernames(accounts);
 
@@ -162,7 +164,7 @@ const calcDisplaySummary = function (acc) {
 };
 
 //LOGIN
-let currentAccount;
+let currentAccount, timer;
 
 btnLogin.addEventListener(`click`, function (e) {
   e.preventDefault();
@@ -179,6 +181,10 @@ btnLogin.addEventListener(`click`, function (e) {
     containerApp.style.opacity = `100`;
     inputLoginPin.blur();
     inputLoginUsername.value = inputLoginPin.value = ``;
+    if (timer) {
+      clearInterval(timer);
+    }
+    // timer = startLogOutTimer();
     updateUI(currentAccount);
   }
 });
@@ -205,6 +211,8 @@ btnTransfer.addEventListener(`click`, function (e) {
     receiverAcc.movementsDates.push(new Date().toISOString());
 
     updateUI(currentAccount);
+    // clearInterval(timer);
+    // timer = startLogOutTimer();
   }
 });
 
@@ -263,8 +271,27 @@ const min = now.getMinutes();
 labelDate.textContent = `${day}/${month}/${year}, /${hour}:${min}`;
 
 //SIEMPRE LOGG
-currentAccount = account1;
-updateUI(currentAccount);
-containerApp.style.opacity = 100;
+// currentAccount = account1;
+// updateUI(currentAccount);
+// containerApp.style.opacity = 100;
 
-console.log(new Date().toISOString());
+const startLogOutTimer = function () {
+  const tick = function () {
+    const min = String(Math.trunc(time / 60)).padStart(2, 0);
+    const sec = String(time % 60).padStart(2, 0);
+
+    labelTimer.textContent = `${min}:${sec}`;
+
+    if (time === 0) {
+      clearInterval(timer);
+      labelWelcome.textContent = `Log in to get started`;
+      containerApp.style.opacity = 0;
+    }
+    time--;
+  };
+  let time = 15;
+  tick();
+  const timer = setInterval(tick, 1000);
+
+  return timer;
+};
