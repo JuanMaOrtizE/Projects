@@ -96,9 +96,7 @@ tabsContainer.addEventListener(`click`, function (e) {
 //Menu fade
 
 const handleHover = function (e) {
-  console.log(e.target);
   if (e.target.classList.contains(`nav__link`)) {
-    console.log(`dentro if`, e.target);
     const link = e.target;
     const siblings = link.closest(`.nav`).querySelectorAll`.nav__link`;
     const logo = link.closest(`.nav`).querySelector(`.nav__logo`);
@@ -116,3 +114,26 @@ const handleHover = function (e) {
 nav.addEventListener(`mouseover`, handleHover.bind(0.5));
 
 nav.addEventListener(`mouseout`, handleHover.bind(1));
+
+//Sticky
+const header = document.querySelector('.header');
+const navHeight = nav.getBoundingClientRect().height;
+
+const stickyNav = function (entries) {
+  const [entry] = entries;
+  console.log(entry);
+
+  if (!entry.isIntersecting) {
+    nav.classList.add(`sticky`);
+  } else {
+    nav.classList.remove(`sticky`);
+  }
+};
+
+const objOptions = {
+  root: null,
+  thresold: 0,
+  rootMargin: `-${navHeight}px`,
+};
+const headerObserver = new IntersectionObserver(stickyNav, objOptions);
+headerObserver.observe(header);
