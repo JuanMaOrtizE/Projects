@@ -144,6 +144,7 @@ const allSections = document.querySelectorAll('.section ');
 // console.log(allSections);
 const revealSection = function (entries, observer) {
   const [entry] = entries;
+  console.log(entry);
 
   if (entry.isIntersecting) {
     entry.target.classList.remove('section--hidden');
@@ -156,14 +157,14 @@ const sectionObserver = new IntersectionObserver(revealSection, {
 });
 allSections.forEach(section => {
   sectionObserver.observe(section);
-  section.classList.add(`section--hidden`);
+  // section.classList.add(`section--hidden`);
 });
 
 //Lazy loading images
 
 const loadingImg = function (entries, observer) {
   const [entry] = entries;
-  console.log(entry);
+  // console.log(entry);
 
   if (entry.isIntersecting) {
     entry.target.src = entry.target.dataset.src;
@@ -183,3 +184,48 @@ const imgObserver = new IntersectionObserver(loadingImg, {
 });
 
 imgTarget.forEach(img => imgObserver.observe(img));
+
+//Slider
+
+// const slides = document.querySelectorAll('.slide'); //Nodelist de los slides
+
+// const btnLeft = document.querySelector('.slider__btn--left');
+// const btnRigth = document.querySelector('.slider__btn--right');
+
+// let currentSlide = 0;
+
+// const goToSlide = function (slide) {
+//   slides.forEach((s, i) => {
+//     const translateTo = `translateX(${100 * (i - slide)}%)`;
+
+//     s.style.transform = translateTo;
+//   });
+// };
+
+// //posiciones por defecto
+// goToSlide(0);
+
+// const nextSlide = function () {
+//   console.log(currentSlide);
+//   if (currentSlide === slides.length - 1) {
+//     currentSlide = 0;
+//   } else {
+//     currentSlide++;
+//   }
+//   console.log(currentSlide);
+
+//   goToSlide(currentSlide);
+// };
+
+// const prevSlide = function () {
+//   if (currentSlide === 0) {
+//     currentSlide = slides.length - 1;
+//   } else {
+//     currentSlide--;
+//   }
+
+//   goToSlide(currentSlide);
+// };
+
+// btnRigth.addEventListener(`click`, nextSlide);
+// btnLeft.addEventListener(`click`, prevSlide);
