@@ -3,17 +3,9 @@ import recipeView from './views/recipeView.js';
 
 import 'core-js/stable';
 
-const timeout = function (s) {
-  return new Promise(function (_, reject) {
-    setTimeout(function () {
-      reject(new Error(`Request took too long! Timeout after ${s} second`));
-    }, s * 1000);
-  });
-};
-
 // https://forkify-api.herokuapp.com/v2
 
-//Snpinner
+//Suscriber
 
 const controlRecipes = async function () {
   try {
@@ -21,20 +13,17 @@ const controlRecipes = async function () {
 
     if (!id) return;
     recipeView.renderSpinner();
-    //Loading recipe
+    //accedemos en model a la función encargada de hacer el fetch del hash
     await model.loadRecipe(id);
+    //renderizamos en view el objeto almacenado en model
     recipeView.render(model.state.recipe);
-
-    //Rendering recipe
   } catch (err) {
-    alert(err);
+    recipeView.renderError();
   }
 };
 
-controlRecipes();
+const init = function () {
+  recipeView.addHandlerRender(controlRecipes);
+};
 
-///////////////////////////////////////
-
-[`hashchange`, `load`].forEach(ev =>
-  window.addEventListener(ev, controlRecipes)
-);
+init();

@@ -589,34 +589,25 @@ var _webImmediateJs = require("core-js/modules/web.immediate.js");
 var _modelJs = require("./model.js");
 var _recipeViewJs = require("./views/recipeView.js");
 var _recipeViewJsDefault = parcelHelpers.interopDefault(_recipeViewJs);
-const timeout = function(s) {
-    return new Promise(function(_, reject) {
-        setTimeout(function() {
-            reject(new Error(`Request took too long! Timeout after ${s} second`));
-        }, s * 1000);
-    });
-};
 // https://forkify-api.herokuapp.com/v2
-//Snpinner
+//Suscriber
 const controlRecipes = async function() {
     try {
         const id = window.location.hash.slice(1);
         if (!id) return;
         (0, _recipeViewJsDefault.default).renderSpinner();
-        //Loading recipe
+        //accedemos en model a la función encargada de hacer el fetch del hash
         await _modelJs.loadRecipe(id);
+        //renderizamos en view el objeto almacenado en model
         (0, _recipeViewJsDefault.default).render(_modelJs.state.recipe);
-    //Rendering recipe
     } catch (err) {
-        alert(err);
+        (0, _recipeViewJsDefault.default).renderError();
     }
 };
-controlRecipes();
-///////////////////////////////////////
-[
-    `hashchange`,
-    `load`
-].forEach((ev)=>window.addEventListener(ev, controlRecipes));
+const init = function() {
+    (0, _recipeViewJsDefault.default).addHandlerRender(controlRecipes);
+};
+init();
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","core-js/modules/web.immediate.js":"49tUX","./model.js":"Y4A21","./views/recipeView.js":"l60JC"}],"gkKU3":[function(require,module,exports) {
 exports.interopDefault = function(a) {
@@ -1909,6 +1900,7 @@ const loadRecipe = async function(id) {
         };
         console.log(state.recipe);
     } catch (err) {
+        console.log(`paila ${err}`);
         throw err;
     }
 };
@@ -2530,6 +2522,7 @@ const getJSON = async function(url) {
         return data;
     } catch (err) {
         console.log(err);
+        throw err;
     }
 };
 
@@ -2542,6 +2535,8 @@ var _fractional = require("fractional");
 class recipeView {
     #parentElement = document.querySelector(".recipe");
     #data;
+    #errorMessage = `No pudimos encontrar tu receta, Por favor intenta con otra`;
+    #message = ``;
     render(data) {
         this.#data = data;
         console.log(data);
@@ -2560,8 +2555,39 @@ class recipeView {
             </svg>
           </div> 
     `;
-        this.#parentElement.innerHTML = ``;
+        this.#clear();
         this.#parentElement.insertAdjacentHTML(`afterbegin`, markup);
+    }
+    renderError(message = this.#errorMessage) {
+        const markup = ` <div class="error">
+            <div>
+              <svg>
+                <use href="${(0, _iconsSvgDefault.default)}#icon-alert-triangle"></use>
+              </svg>
+            </div>
+            <p>${message}</p>
+          </div> `;
+        this.#clear();
+        this.#parentElement.insertAdjacentHTML(`afterbegin`, markup);
+    }
+    renderMessage(message = this.#message) {
+        const markup = ` <div class="message">
+            <div>
+              <svg>
+                <use href="${(0, _iconsSvgDefault.default)}#icon-smile"></use>
+              </svg>
+            </div>
+            <p>${message}</p>
+          </div> `;
+        this.#clear();
+        this.#parentElement.insertAdjacentHTML(`afterbegin`, markup);
+    }
+    //publisher
+    addHandlerRender(handler) {
+        [
+            `hashchange`,
+            `load`
+        ].forEach((ev)=>window.addEventListener(ev, handler));
     }
     #generateMarkUp() {
         return `
