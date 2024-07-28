@@ -1,4 +1,4 @@
-9704
+9710
 119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\instance\concat.js133658178580620399 0
 124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\actual\object\define-property.js133658178583370872 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\node-addon-api\tools\README.md133658036119445073 0
@@ -20,7 +20,7 @@
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lmdb\dependencies\lz4\lib\lz4.c133658036120655347 0
 144C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133658036112633548 0
 133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133658036115854266 0
-75C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist133665788993453038 1
+75C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist133665808020637979 1
 103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\picocolors\types.ts133658036115114104 0
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\reporter-tracer\lib133658036111313251 1
 123C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\weak-set\delete-all.js133658178583770945 0
@@ -56,7 +56,7 @@
 140C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\definition-syntax\walk.js133658036129265332 0
 127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\proposals\string-left-right-trim.js133658178621616639 0
 130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\lib\pseudo-selectors\pseudos.js.map133658036122355744 0
-83C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules133658845884726162 1
+83C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules133665805609995343 1
 127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\vector-effect.js133658036136116876 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\to-big-int.js133658178622756851 0
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\walker\index.js133658036128465147 0
@@ -65,17 +65,17 @@
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\logger\index.d.ts133658036812113360 0
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\web.clear-immediate.js133658178627126857 0
 113C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\escape-string-regexp\index.js133658036111123212 0
-88C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\package-lock.json133658845885420713 0
+88C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\package-lock.json133665805610708954 0
 106C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\update-browserslist-db133658036115444176 1
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\semver\functions\gte.js133658036117084560 0
-101C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@msgpackr-extract133658845884726162 1
+101C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@msgpackr-extract133665805609995343 1
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\cjs\syntax\node\Comment.cjs133658036118744914 0
 79C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\sass133658016001431345 1
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\string\blink.js133658178579440174 0
 124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\mdn-data\l10n\css.json133658036116334375 0
 90C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@lezer133658036099410571 1
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\definition-syntax\walk.js133658036129465377 0
-83C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\package.json133665788933899944 0
+83C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\package.json133665797599087074 0
 126C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css3-tabsize.js133658036129435369 0
 93C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\env-paths133658036114193901 1
 140C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133658036129295348 0
@@ -123,7 +123,7 @@
 133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\msgpackr-extract\node_modules\detect-libc\LICENSE133658036110763134 0
 118C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\legacy\plugin_this.d.ts133658036812363421 0
 102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lmdb\node-index.js133658036126954808 0
-97C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\js\views\recipeView.js133665728153185957 0
+97C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\js\views\recipeView.js133665804774178955 0
 110C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\msgpackr-extract\README.md133658036115284163 0
 96C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\sass\_components.scss132886955210000000 0
 119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\array\virtual\index.js133658178604756773 0
@@ -196,7 +196,7 @@
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\workers\src\child.js133658036115394192 0
 160C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133658036137157137 0
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\string\from-code-point.js133658178598336957 0
-86C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\js\model.js133665734589565316 0
+86C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\js\model.js133665806435656204 0
 143C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js133658036113443729 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lines-and-columns\package.json133658036113093651 0
 83C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\js\views133665068443515244 1
@@ -257,6 +257,7 @@
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\msgpackr-extract\binding.gyp133658036113113654 0
 130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\cjs\_class_private_field_init.cjs133658036119685133 0
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\weak-lru-cache\package.json133658036115304148 0
+105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fracty\fracty.test.js133665797598870930 0
 113C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\instance\at.js133658178578792954 0
 110C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\node-releases\package.json133658036113823810 0
 133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js133658036127444917 0
@@ -282,7 +283,7 @@
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\syntax\node\IdSelector.js133658036128145080 0
 133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.flat-map.js133658178590337561 0
 123C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\array\virtual\entries.js133658178585725243 0
-91C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\js\views\view.js133665747247994048 0
+91C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\js\views\view.js133665807246933166 0
 109C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\posthtml-parser\readme.md133658036115384166 0
 90C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\src\img\favicon.png132886955210000000 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\cjs133658036126584799 1
@@ -328,20 +329,18 @@
 138C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-file-selector-button.js133658036127634961 0
 118C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\es.map.group-by.js133658178587204994 0
 108C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\data-view133658178605286865 1
-102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\.package-lock.json133658845885784430 0
+102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\.package-lock.json133665805611105609 0
 118C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\set\is-subset-of.js133658178608057437 0
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\postcss-value-parser\lib\unit.js133658036114553972 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\date\to-json.js133658178623326946 0
 103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\detect-libc\LICENSE133658036113923844 0
 94C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types133658036812363421 1
 117C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\escape-string-regexp\package.json133658036110593422 0
-89C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@lmdb133658845884736156 1
+89C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@lmdb133665805609995343 1
 96C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite133658036136867072 1
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133658036127504932 0
 149C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertColors.js133658036118804935 0
-91C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel133658845884726162 1
-102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\clone\package.json133658036110693112 0
-111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lightningcss\node\index.mjs133658036116854488 0
+91C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel133665805609995343 1
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlparser2\lib\Tokenizer.d.ts133658036118524872 0
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\svgo\plugins\sortDefsChildren.js133658036125676552 0
 108C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\semver\internal\debug.js133658036116364387 0
@@ -357,7 +356,7 @@
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fractional\package.json133658845884295192 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\instance\reduce-right.js133658178616196985 0
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lines-and-columns\build133658036114293921 1
-88C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc133658845884726162 1
+88C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc133665805609995343 1
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\CY.js133658036129535389 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\jpegxl.js133658036133146197 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\set-interval.js133658178618246008 0
@@ -496,6 +495,7 @@
 104C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\is-json\package.json133658036110613089 0
 142C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133658036112583541 0
 154C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\package.json133658036114633998 0
+97C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.8fdcf69b.js.map133665808020627976 0
 92C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\entities133658036119135010 1
 92C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\error-ex133658036113473730 1
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\es.array.from.js133658178586445373 0
@@ -534,6 +534,14 @@
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\es.typed-array.find-index.js133658178589537424 0
 94C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fractional133658845884526122 1
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\array\virtual\values.js133658178627036841 0
+158C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\lang.js133658036124506211 0
+130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\index.js133658036128195091 0
+129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\cjs\_assert_this_initialized.cjs133658036115304148 0
+124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\array\virtual\flat-map.js133658178596838634 0
+121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lightningcss-win32-x64-msvc\README.md133658036112983619 0
+93C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\svgo\dist133658036115534201 1
+103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\js-tokens\README.md133658036114413948 0
+90C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fracty133665797598870930 1
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\regexp-exec.js133658178616975990 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\dom-collections\index.js133658178604566733 0
 95C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\glob-parent133658036807515208 1
@@ -1013,6 +1021,7 @@
 141C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts.map133658036119625117 0
 158C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\attributes.d.ts.map133658036118434846 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\restructure\prepare\specificity.cjs133658036120715356 0
+100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fracty\fracty.js133665797598870930 0
 127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\passwordrules.js133658036134496511 0
 104C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\reflect133658178624167091 1
 113C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\update-browserslist-db\cli.js133658036112993622 0
@@ -1352,12 +1361,6 @@
 103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\immutable\README.md133658036808425411 0
 124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\es.typed-array.reduce.js133658178589687443 0
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\term-size\vendor\macos\term-size133658036114223902 0
-158C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\lang.js133658036124506211 0
-130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\index.js133658036128195091 0
-129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\cjs\_assert_this_initialized.cjs133658036115304148 0
-124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\array\virtual\flat-map.js133658178596838634 0
-121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lightningcss-win32-x64-msvc\README.md133658036112983619 0
-93C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\svgo\dist133658036115534201 1
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\json\to-string-tag.js133658178624177098 0
 101C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\svgo\package.json133658036120855389 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\svgo\plugins\addAttributesToSVGElement.js133658036121265479 0
@@ -1589,8 +1592,8 @@
 143C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts.map133658036121325494 0
 100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\srcset\readme.md133658036113783799 0
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\weak-set133658178605596447 1
-100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\stable\stable.js133658036113713790 0
 129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js133658036115474185 0
+100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\stable\stable.js133658036113713790 0
 104C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\stable\stable.min.js133658036114263915 0
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\es\instance\trim.js133658178625306513 0
 101C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\srcset\index.d.ts133658036114303919 0
@@ -1640,6 +1643,7 @@
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\array\virtual\keys.js133658178610386624 0
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\source-map-js\lib\base64.js133658036113893833 0
 102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\msgpackr\README.md133658036122325725 0
+93C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.8fdcf69b.js133665808020577963 0
 108C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\domutils\lib\querying.js133658036115274140 0
 141C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\package.json133658036124926311 0
 130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\multibackgrounds.js133658036133976395 0
@@ -1752,6 +1756,8 @@
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lmdb\dist\index.cjs.map133658036127274884 0
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\semver\ranges\min-version.js133658036120035208 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\es\reflect\delete-property.js133658178583840955 0
+124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\use-strict.js133658036136036855 0
+105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fracty\.gitattributes133665797598870930 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\postcss-value-parser\lib\stringify.js133658036113923844 0
 126C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\dist\csstree.js133658036127544943 0
 118C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\actual\typed-array\keys.js133658178609906532 0
@@ -1880,7 +1886,6 @@
 130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\walker\index.js133658036128305113 0
 102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\sass.node.mjs133658036811953323 0
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\compile.d.ts133658036812013341 0
-113C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\legacy\render.d.ts133658036812513450 0
 109C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\exception.d.ts133658036812023339 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\string\fixed.js133658178596138475 0
 101C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\legacy133658036812503447 1
@@ -1920,6 +1925,7 @@
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\legacy\function.d.ts133658036812043353 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\QA.js133658036134846588 0
 134C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.cjs133658036114443951 0
+113C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\sass\types\legacy\render.d.ts133658036812513450 0
 106C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\safe-buffer\index.d.ts133658036114553972 0
 131C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\src\_object_without_properties.mjs133658036132255998 0
 104C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\safe-buffer\index.js133658036111193222 0
@@ -2590,10 +2596,6 @@
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\instance\pad-start.js133658178614616703 0
 100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lmdb\SECURITY.md133658036127384912 0
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\lib\clean\WhiteSpace.js133658036125736561 0
-119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\lexer\generic-const.js133658036128015057 0
-115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\BR.js133658036124566229 0
-131C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.reduce.js133658178590377575 0
-154C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js.map133658036120165235 0
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\regexp\match.js133658178612456319 0
 126C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\reflect\prevent-extensions.js133658178615376841 0
 92C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lmdb\src133658036126086660 1
@@ -2675,13 +2677,6 @@
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133658036120955411 0
 130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-revert-value.js133658036128815238 0
 113C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\actual\url\to-json.js133658178623246934 0
-138C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\transformer-html\node_modules\srcset\readme.md133658036113873827 0
-149C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js133658036116674457 0
-122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\string\virtual\big.js133658178579240130 0
-120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\_\_extends\package.json133658036129125304 0
-123C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133658036128005044 0
-130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-text-justify.js133658036129065283 0
-130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\wasm-multi-value.js133658036136256898 0
 123C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\actual\string\to-well-formed.js133658178624756404 0
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\cjs\utils\List.cjs133658036124546217 0
 124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\dom-serializer\node_modules\entities\lib133658036118814936 1
@@ -2837,6 +2832,8 @@
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\tokenizer\types.js133658036129245322 0
 135C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js133658036120105220 0
 117C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlparser2\lib\WritableStream.js133658036115144116 0
+102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\clone\package.json133658036110693112 0
+111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lightningcss\node\index.mjs133658036116854488 0
 119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\domelementtype\lib\esm\package.json133658036114293921 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\lightningcss\node\targets.d.ts133658036118924960 0
 129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-unset-value.js133658036129195312 0
@@ -2919,9 +2916,9 @@
 105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\js-yaml\lib\dumper.js133658036115704234 0
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\es\string\pad-end.js133658178614496681 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\es.promise.with-resolvers.js133658178588429541 0
-108C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\js-yaml\lib\exception.js133658036115944287 0
-115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\parser\sequence.js133658036129055280 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133658036114794031 0
+115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\parser\sequence.js133658036129055280 0
+108C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\js-yaml\lib\exception.js133658036115944287 0
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\domutils\lib\manipulation.js133658036114944059 0
 102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\dom-serializer\lib133658036117294596 1
 137C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133658036110293017 0
@@ -2960,7 +2957,6 @@
 106C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\js-tokens\CHANGELOG.md133658036111163211 0
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\actual\array\is-array.js133658178606456604 0
 102C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\js-tokens\index.js133658036112973627 0
-103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\js-tokens\README.md133658036114413948 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\esm\_read_only_error.js133658036127504932 0
 112C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\cjs\lexer\trace.cjs133658036126536731 0
 136C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133658036129635417 0
@@ -2974,7 +2970,6 @@
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\domutils\lib\stringify.d.ts.map133658036117804709 0
 124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\generator133658036129035279 1
 135C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\esm\_class_extract_field_descriptor.js133658036126266675 0
-121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\symbol\async-iterator.js133658178578312881 0
 100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\is-glob\index.js133658036111193222 0
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\symbol133658178626716791 1
 99C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\is-glob\LICENSE133658036110663099 0
@@ -3057,9 +3052,9 @@
 99C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlparser2\lib133658036118624891 1
 108C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlparser2\package.json133658036115464180 0
 118C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\src\_ts_generator.mjs133658036132396038 0
-120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\symbol\async-dispose.js133658178577922811 0
 105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlparser2\README.md133658036116824482 0
 132C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\restructure\prepare\processSelector.cjs133658036120445322 0
+120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\symbol\async-dispose.js133658178577922811 0
 110C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\watcher\wrapper.js133658036113823810 0
 126C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\ordinary-to-primitive.js133658178614416672 0
 110C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlparser2\lib\index.d.ts133658036117174562 0
@@ -3144,10 +3139,10 @@
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\GY.js133658036132506060 0
 133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\lexer\structure.js133658036128965262 0
 107C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\number133658178623426961 1
+115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\date\get-year.js133658178601127455 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlnano\lib\modules\mergeStyles.mjs133658036125276389 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\MA.js133658036133566298 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\symbol\custom-matcher.js133658178583000807 0
-115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\date\get-year.js133658178601127455 0
 134C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133658036117284592 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\src\_new_arrow_check.mjs133658036132205992 0
 136C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts.map133658036120025209 0
@@ -3257,6 +3252,13 @@
 127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\trusted-types.js133658036135906823 0
 140C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133658036129045282 0
 100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\get-port\license133658036113853819 0
+103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fracty\package.json133665797598870930 0
+128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133658036114643999 0
+114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\array\values.js133658178627056855 0
+158C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-style-declaration.js133658036119975194 0
+127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\regexp-unsupported-ncg.js133658178617006001 0
+121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\rellist.js133658036134926605 0
+100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\fracty\readme.md133665797598870930 0
 106C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-svgo133658036113983858 1
 113C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\lib\replace\Dimension.js133658036124366190 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133658036112593535 0
@@ -3994,8 +3996,6 @@
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\math\log2.js133658178610946726 0
 164C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133658036126724765 0
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\restructure\1-mergeAtrule.cjs133658036112653547 0
-128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133658036114643999 0
-114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\array\values.js133658178627056855 0
 123C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\es\typed-array\float32-array.js133658178596978652 0
 126C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\restructure\8-restructRuleset.cjs133658036115764243 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\object\is-extensible.js133658178607136720 0
@@ -4025,9 +4025,9 @@
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\replace\atrule\keyframes.cjs133658036120205250 0
 109C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\clean\Atrule.cjs133658036116164348 0
 106C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\csso\cjs\clean\Raw.cjs133658036120535324 0
+121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\parser\parse-selector.js133658036128835240 0
 105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-what\package.json133658036116414406 0
 100C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\clone\.npmignore133658036111233232 0
-121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\parser\parse-selector.js133658036128835240 0
 110C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-what\lib\es\index.d.ts133658036119205019 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133658036118654908 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-lch-lab.js133658036128085063 0
@@ -4150,6 +4150,17 @@
 118C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\parser\SyntaxError.js133658036129175309 0
 137C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133658036126974812 1
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\lexer\error.js133658036127905025 0
+138C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\transformer-html\node_modules\srcset\readme.md133658036113873827 0
+149C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js133658036116674457 0
+122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\features\string\virtual\big.js133658178579240130 0
+120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\_\_extends\package.json133658036129125304 0
+123C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133658036128005044 0
+130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\css-text-justify.js133658036129065283 0
+130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\wasm-multi-value.js133658036136256898 0
+119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\lexer\generic-const.js133658036128015057 0
+115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\BR.js133658036124566229 0
+131C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.reduce.js133658178590377575 0
+154C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js.map133658036120165235 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\lexer\generic-urange.js133658036128045062 0
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-tree\lib\lexer\index.js133658036128305113 0
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\utils\src\isDirectoryInside.js133658036122085665 0
@@ -4703,7 +4714,7 @@
 119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\lib\esm\pseudo-selectors133658036125206405 1
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\test\serializer.test.js133658036127164861 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\array\virtual\reduce.js133658178616845971 0
-94C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\icons.c14567a0.svg133665788992845675 0
+94C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\icons.c14567a0.svg133665808020127013 0
 119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\reflect\construct.js133658178581110479 0
 103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\logger\test133658036114153890 1
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\css-select\lib\esm\sort.js.map133658036122555775 0
@@ -4960,8 +4971,8 @@
 130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133658036110703112 0
 146C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json133658036128885253 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\typed-array\uint8-array.js133658178626276711 0
-133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\typed-array\uint8-clamped-array.js133658178626316717 0
 133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\runtime-js\lib\helpers\bundle-manifest.js133658036113863826 0
+133C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\typed-array\uint8-clamped-array.js133658178626316717 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\stable\typed-array\values.js133658178627086849 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.math.imulh.js133658178591127569 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\esm\_iterable_to_array_limit.js133658036127244875 0
@@ -5701,8 +5712,8 @@
 144C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-disposable-stack.constructor.js133658178590277556 0
 129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.drop.js133658178590307572 0
 129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.find.js133658178590327566 0
-129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.from.js133658178590357572 0
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\runtime-js\lib\helpers\browser133658036121035430 1
+129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.from.js133658178590357572 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\modules\esnext.async-iterator.map.js133658178590367572 0
 120C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\beacon.js133658036122735821 0
 124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\src\_async_to_generator.mjs133658036130705656 0
@@ -6035,9 +6046,6 @@
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\regexp-exec-abstract.js133658178616936001 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\regexp-get-flags.js133658178616985993 0
 131C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\regexp-unsupported-dot-all.js133658178617006001 0
-158C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-style-declaration.js133658036119975194 0
-127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\regexp-unsupported-ncg.js133658178617006001 0
-121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\rellist.js133658036134926605 0
 129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\require-object-coercible.js133658178617346064 0
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\internals\set-iterate.js133658178618466051 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\reporter-dev-server\src\Server.js133658036115164111 0
@@ -6146,6 +6154,7 @@
 151C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\clone.js133658036118554870 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\typed-array\to-base64.js133658178622746841 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\typed-array\to-string.js133658178624706398 0
+121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\symbol\async-iterator.js133658178578312881 0
 118C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\symbol\description.js133658178583950990 0
 116C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\es\instance\ends-with.js133658178585185147 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\core-js\full\symbol\dispose.js133658178584291039 0
@@ -7999,7 +8008,7 @@
 138C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\README.md133658036120245252 0
 103C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\core\util.d.ts133658036116634438 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\TV.js133658036135926824 0
-86C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.html133665788993402810 0
+86C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.html133665808020567959 0
 111C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@swc\helpers\cjs\_throw.cjs133658036124556223 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\regions\TZ.js133658036135956831 0
 134C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\wasm-reference-types.js133658036136276902 0
@@ -8218,7 +8227,7 @@
 105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\packager-html133658036114113880 1
 135C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\native-filesystem-api.js133658036134106421 0
 124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\nav-timing.js133658036134126431 0
-96C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\favicon.42656662.png133665788984570813 0
+96C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\favicon.42656662.png133665808015318461 0
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\netinfo.js133658036134176444 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\object-observe.js133658036134286460 0
 127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\object-values.js133658036134296468 0
@@ -8281,7 +8290,6 @@
 121C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\lib\public\Dependency.js133658036122725810 0
 117C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\url.js133658036136006841 0
 129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\urlsearchparams.js133658036136016859 0
-124C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\use-strict.js133658036136036855 0
 130C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\user-select-none.js133658036136046856 0
 125C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\user-timing.js133658036136056862 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\caniuse-lite\data\features\variable-fonts.js133658036136086870 0
@@ -8656,8 +8664,8 @@
 117C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\workers\lib\WorkerFarm.js133658036121735592 0
 128C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\test\fixtures\duplicate-targets133658036128335118 1
 127C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\workers\lib\process\ProcessChild.js133658036120155236 0
-122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\watcher-win32-x64\package.json133658036111193222 0
 119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\runtime-js\lib\JSRuntime.js133658036120475305 0
+122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\watcher-win32-x64\package.json133658036111193222 0
 119C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\watcher-win32-x64\README.md133658036113003633 0
 122C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\watcher-win32-x64\watcher.node133658036116384389 0
 162C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.js133658036114944059 0
@@ -9553,6 +9561,7 @@
 129C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\src\public\MutableBundleGraph.js133658036125826573 0
 117C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\lib\applyRuntimes.js133658036119155007 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\lib\AssetGraph.js133658036119845164 0
+101C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.runtime.ce0567b6.js133665808020577963 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\lib\assetUtils.js133658036120735365 0
 114C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\lib\buildCache.js133658036120895395 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\@parcel\core\lib\BundleGraph.js133658036121375522 0
@@ -9696,10 +9705,7 @@
 99C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\.bin\semver.ps1133658036137127128 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\.bin\update-browserslist-db.cmd133658036137127128 0
 115C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\node_modules\.bin\update-browserslist-db.ps1133658036137127128 0
-93C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.544391c1.js133665788993402810 0
-97C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.544391c1.js.map133665788993453038 0
-94C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.628a78b8.css133665788993402810 0
-98C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.628a78b8.css.map133665788993453038 0
-101C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.runtime.ce5b496a.js133665788993402810 0
-105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.runtime.ce5b496a.js.map133665788993453038 0
-93C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\logo.833dfef5.png133665788986367381 0
+94C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.628a78b8.css133665808020567959 0
+98C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.628a78b8.css.map133665808020627976 0
+105C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\index.runtime.ce0567b6.js.map133665808020627976 0
+93C:\Users\Mamelo\Desktop\developlessCareer\Developless\Projects\forkify\dist\logo.833dfef5.png133665808017049157 0
